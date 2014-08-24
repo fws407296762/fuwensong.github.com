@@ -5,6 +5,7 @@ safe: false
 pygments: true
 port: 4001
 regeneration: watch
+host: http://fuwensong.github.com/
 
 # 个人配置
 title: 松鼠闹IT的Blog
